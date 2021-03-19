@@ -6,5 +6,9 @@
 <body>
 <h1>hello world</h1>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. In doloremque illo delectus odit ea iusto facere iure hic quam reprehenderit, dicta iste, unde ab enim minus aliquam voluptatem nisi. Ipsa.</p>
+<ul>
+<li>satu</li>
+<li>dua</li>
+</ul>
 </body>
 </html>
